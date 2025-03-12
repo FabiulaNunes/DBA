@@ -11,7 +11,7 @@ manter um cadastro de todas as categorias existentes, com informações
 como: código da categoria e descrição. Uma categoria pode ter vários
 livros associados a ela.
 
-# Modelo Conceitual (DER)
+# Modelo Conceitual (DER 1.0)
 
 ![Questao1](../../Imagem/DER/7.%20sem%20cardinalidade.png)
 
@@ -26,6 +26,6 @@ requisitos do sistema.
 
 Desmembrando relacionamentos n:m (muitos para muitos), evitando anomalias futuras.
 
-![Incluindo entidades associativas](../../)
+![Incluindo entidades associativas](../../Imagem/DER/7.%20entidade%20associativa.png)
 
 [Voltar](../../README.md)

@@ -54,8 +54,6 @@ Segundo paragrafo
 
 ![Logo do senai](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpheYOwcfpdRNxoB2d09hFsOGz0144RwU6ih3jjA6uU0_NWsj9cKPAPJaxKxlCRdTikA&usqp=CAU)
 
-![Logo senai azul](./)
-
 Veja mais sobre a [Modelagem Conceitual](./modelagemConceitual.md)
 
 
@@ -92,6 +90,16 @@ IF NOT EXISTS;
 ---
 _Este é um texto em Italico_
 
+*Este é um texto em Italico*
+
 __Negrito__
 
 ___Italico e Negrito___
+
+__*Italico e Negrito*__
+
+~~Texto taxado~~ 
+
+## Link com imagem
+
+[![logo youtube](../Imagem/sociais/pngwing.com.png)](https://www.youtube.com)

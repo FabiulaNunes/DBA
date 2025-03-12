@@ -9,7 +9,7 @@ vende, tais como: nome do produto, tipo (flor, vaso, planta,...), preço e
 quantidade em estoque. Quando um cliente faz uma compra, a mesma é armazenada, mantendo informação sobre o cliente que fez a compra, a
 data da compra, o valor total e os produtos comprados.
 
-# Modelo Conceitual (DER)
+# Modelo Conceitual (DER 1.0)
 
 ![Questao1](../../Imagem/DER/5.%20sem%20cardinalidade.png)
 
@@ -24,6 +24,6 @@ requisitos do sistema.
 
 Desmembrando relacionamentos n:m (muitos para muitos), evitando anomalias futuras.
 
-![Incluindo entidades associativas](../../)
+![Incluindo entidades associativas](../../Imagem/DER/5.%20entidade%20associativa.png)
 
 [Voltar](../../README.md)

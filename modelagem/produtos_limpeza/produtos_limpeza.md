@@ -28,6 +28,6 @@ requisitos do sistema.
 
 Desmembrando relacionamentos n:m (muitos para muitos), evitando anomalias futuras.
 
-![Incluindo entidades associativas](../../)
+![Incluindo entidades associativas](../../Imagem/DER/8.%20entidade%20associativa.png)
 
 [Voltar](../../README.md)
